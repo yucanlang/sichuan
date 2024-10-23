@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.iill.top/logo/第一财经.png" group-title="新闻财经频道",SiTV 第一财经（Gather）
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="新闻财经频道",凤凰中文
@@ -32,7 +32,6 @@ http://116.226.38.242:4022/udp/239.45.3.211:5140
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="新闻财经频道",东方财经
 http://220.166.249.164:4000/udp/239.93.1.165:5140
 
-
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="电影&4K&纪实",CHC家庭影院
 http://220.166.249.164:4000/udp/239.93.42.6:5140
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="电影&4K&纪实",CHC影迷电影
@@ -61,11 +60,11 @@ http://220.166.249.164:4000/udp/239.93.42.86:5140
 http://220.166.249.164:4000/udp/239.93.42.87:5140
 #EXTINF:-1 tvg-name="全球大片" tvg-logo="https://epg.iill.top/logo/百视通.png" group-title="电影&4K&纪实",全球大片
 http://220.166.249.164:4000/udp/239.93.42.90:5140
-#EXTINF:-1 tvg-name="全球大片" tvg-logo="https://epg.iill.top/logo/百视通.png" group-title="电影&4K&纪实",爱院线
+#EXTINF:-1 tvg-name="爱院线" tvg-logo="https://epg.iill.top/logo/爱院线.png" group-title="电影&4K&纪实",爱院线
 http://220.166.249.164:4000/udp/239.93.42.11:5140
 #EXTINF:-1 group-title="720P",华数精彩影视
 http://220.166.249.164:4000/udp/239.93.42.92:5140
-#EXTINF:-1 tvg-name="全球大片" tvg-logo="https://epg.iill.top/logo/百视通.png" group-title="电影&4K&纪实",求索记录
+#EXTINF:-1 tvg-name="全球大片" tvg-logo="https://live.fanmingming.com/tv/求索记录.png" group-title="电影&4K&纪实",求索记录
 http://220.166.249.164:4000/udp/239.93.42.24:5140
 #EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="电影&4K&纪实",上海纪实人文
 http://220.166.249.164:4000/udp/239.93.1.137:5140
@@ -91,8 +90,6 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 #EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://epg.iill.top/logo/纯享4K.png" group-title="电影&4K&纪实",4K·UHD「IPV6」（Gather）
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
-
-
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://220.166.249.164:4000/udp/239.93.0.58:5140
@@ -166,7 +163,6 @@ http://220.166.249.164:4000/udp/239.93.42.50:5140
 http://220.166.249.164:4000/udp/239.93.42.49:5140
 #EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
 http://220.166.249.164:4000/udp/
-
 
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://220.166.249.164:4000/udp/239.93.0.180:5140
@@ -326,7 +322,6 @@ http://220.166.249.164:4000/udp/239.93.0.91:2101
 #EXTINF:-1 group-title="四川频道",星空精选购物
 http://220.166.249.164:4000/udp/239.93.1.171:5140
 
-
 #EXTINF:-1 group-title="百视通",华语影院
 http://220.166.249.164:4000/udp/239.93.42.86:5140
 #EXTINF:-1 group-title="百视通",星光院线
@@ -372,7 +367,6 @@ http://220.166.249.164:4000/udp/239.93.1.186:5140
 #EXTINF:-1 group-title="百视通",直播室8
 http://220.166.249.164:4000/udp/239.93.1.187:5140
 
-
 #EXTINF:-1 group-title="SiTV",东方财经
 http://220.166.249.164:4000/udp/239.93.1.165:5140
 #EXTINF:-1 group-title="SiTV",生活时尚720
@@ -393,7 +387,6 @@ http://220.166.249.164:4000/udp/239.93.42.93:5140
 http://220.166.249.164:4000/udp/239.93.42.97:5140
 #EXTINF:-1 group-title="SiTV",欢笑剧场4K
 http://220.166.249.164:4000/udp/239.93.0.145:5140
-
 
 #EXTINF:-1 group-title="精彩连播",少儿天地
 http://220.166.249.164:4000/udp/239.93.42.34:5140
@@ -443,8 +436,6 @@ http://220.166.249.164:4000/udp/239.93.42.19:5140
 #EXTINF:-1 group-title="iHOT",爱赛车
 http://220.166.249.164:4000/udp/239.93.42.20:5140
 
-
-
 #EXTINF:-1 group-title="其他",求索记录
 http://220.166.249.164:4000/udp/239.93.42.24:5140
 #EXTINF:-1 group-title="其他",汽摩
@@ -489,7 +480,6 @@ http://220.166.249.164:4000/udp/239.93.42.68:5140
 http://220.166.249.164:4000/udp/239.93.42.59:5140
 #EXTINF:-1 group-title="其他",华西证券
 http://220.166.249.164:4000/udp/239.93.0.69:5140
-
 
 #EXTINF:-1 group-title="720P",书画频道720
 http://220.166.249.164:4000/udp/239.93.42.67:5140
