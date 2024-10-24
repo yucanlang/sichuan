@@ -49,9 +49,13 @@ http://xeace.cn:8888/udp/239.93.0.14:5140
 #EXTINF:-1 tvg-name="4K视界" tvg-logo="https://epg.iill.top/logo/百视通.png" group-title="电影&4K&纪实",绚影4K
 http://xeace.cn:8888/udp/239.93.42.33:5140
 #EXTINF:-1 tvg-id="北京IPTV淘电影" tvg-name="北京IPTV淘电影" tvg-logo="https://live.fanmingming.com/tv/北京IPTV4K.png" group-title="电影&4K&纪实",北京IPTV淘电影
-http://115.171.58.66:4022/udp/225.1.8.38:8002
+http://111.199.232.88:18888/rtp/239.3.1.250:8001
+#EXTINF:-1 tvg-id="北京IPTV淘剧场" tvg-name="北京IPTV淘剧场" tvg-logo="https://live.fanmingming.com/tv/北京IPTV4K.png" group-title="电影&4K&纪实",北京IPTV淘剧场
+http://111.199.232.88:18888/rtp/239.3.1.95:8001
 #EXTINF:-1 tvg-id="北京IPTV4K超清" tvg-name="北京IPTV4K超清" tvg-logo="https://live.fanmingming.com/tv/北京IPTV4K.png" group-title="电影&4K&纪实",北京IPTV4K超清
-http://115.171.58.66:4022/udp/225.1.8.211:8002
+http://111.199.232.88:18888/rtp/239.3.1.249:8001
+#EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://epg.iill.top/logo/爱上4K.png" group-title="电影&4K&纪实",爱上4K·UHD
+http://111.199.232.88:18888/rtp/239.3.1.236:2000
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="电影&4K&纪实",欢笑剧场4K
 http://xeace.cn:8888/udp/239.93.0.145:5140
 #EXTINF:-1 tvg-name="华语影院" tvg-logo="https://epg.iill.top/logo/百视通.png" group-title="电影&4K&纪实",华语影院
