@@ -52,6 +52,8 @@ http://220.166.249.164:4000/udp/239.93.42.33:5140
 http://111.199.232.88:18888/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="北京IPTV淘剧场" tvg-name="北京IPTV淘剧场" tvg-logo="https://live.fanmingming.com/tv/北京IPTV4K.png" group-title="电影&4K&纪实",北京IPTV淘剧场
 http://111.199.232.88:18888/rtp/239.3.1.95:8001
+#EXTINF:-1 tvg-id="北京IPTV淘精彩" tvg-name="北京IPTV淘精彩" tvg-logo="https://live.fanmingming.com/tv/北京IPTV4K.png" group-title="电影&4K&纪实",北京IPTV淘精彩
+http://111.199.232.88:18888/rtp/239.3.1.178:8001
 #EXTINF:-1 tvg-id="北京IPTV4K超清" tvg-name="北京IPTV4K超清" tvg-logo="https://live.fanmingming.com/tv/北京IPTV4K.png" group-title="电影&4K&纪实",北京IPTV4K超清
 http://111.199.232.88:18888/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://epg.iill.top/logo/爱上4K.png" group-title="电影&4K&纪实",爱上4K·UHD
